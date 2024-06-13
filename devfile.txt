@@ -3,5 +3,3 @@ Hello, first change!
 123
 
 additional changes for learning "git push"
-
-New change.
